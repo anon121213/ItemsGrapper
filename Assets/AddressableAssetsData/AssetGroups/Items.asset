@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 157f43a79eea5a34b99507929bdbc6bd
+  m_SerializeEntries:
+  - m_GUID: f4a96f301674e6c4a8b3e4b44992d115
+    m_Address: Assets/Prefabs/Items/AmmoCase.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3640f2802bc2f744ba0dedd7496a1c89
+    m_Address: Assets/Prefabs/Items/AmmoCrate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be74bd0af76a90d459c3b2e2d2e3cf16
+    m_Address: Assets/Prefabs/Items/Bandages.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e1815891efa8a844bd68e02b59e0f89
+    m_Address: Assets/Prefabs/Items/Bat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce79ab084d7785c46b9231d433c22975
+    m_Address: Assets/Prefabs/Items/BeerMug.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c1554984d2e715842ab89bbf566a2c62, type: 2}
+  m_SchemaSet:
+    m_Schemas: []
